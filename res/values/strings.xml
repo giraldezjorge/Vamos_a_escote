@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Vamos a escote?</string>
+    <string name="money_amount_message">Cuanto debemos?</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_escote">Vamos a escote?</string>
+    <string name="button_calculate">Calcular</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_result">Resultado</string>
+    <string name="money_amount_label">Cantidad a pagar</string>
+    <string name="persons_amount_label">Cantidad de personas</string>
+    <string name="persons_amount_message">Cuantos somos?</string>
+    <string name="header">Vamos a escote?</string>
+    <string name="result_label">Nos toca a:</string>
+    <string name="empty_params">No puedes dejar ningún campo en blanco!</string>
+    <string name="money_is_not_a_number">Cantidad a pagar incorrecta</string>
+    <string name="persons_is_not_a_number">Número de personas incorrecto</string>
+    <string name="money_less_than_persons">La cantidad no puede ser menor que el número de personas</string>
+    <string name="clear_form">Limpiar cantidades introducidas</string>
+    <string name="tip_label">Dejamos de propina:</string>
+
+</resources>
