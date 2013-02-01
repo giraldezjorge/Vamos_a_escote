@@ -69,13 +69,4 @@ public class Escote extends Activity {
             }
         }
     }
-
-    public void clearForm(View view) {
-        EditText moneyEditText = (EditText) findViewById(R.id.money_amount);
-        EditText personsEditText = (EditText) findViewById(R.id.persons_amount);
-        moneyEditText.setText("");
-        personsEditText.setText("");
-        moneyEditText.requestFocus();
-    }
-
 }

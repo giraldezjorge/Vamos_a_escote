@@ -26,23 +26,5 @@
         android:textSize="20dp"
         tools:context=".DisplayResultsActivity"
         android:layout_marginBottom="20dp" />
-    
-    <TextView
-        android:id="@+id/tipLabel"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:text="@string/tip_label"
-        android:textColor="#FFFFFF"
-        android:textSize="20dp" />
-
-    <TextView
-        android:id="@+id/tip"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world"
-        android:textColor="#FFFFFF"
-        android:textSize="20dp"
-        tools:context=".DisplayResultsActivity" />
 
 </LinearLayout>
